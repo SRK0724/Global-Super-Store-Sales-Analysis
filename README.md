@@ -47,6 +47,6 @@ Retail organizations often face challenges in identifying top-performing markets
 
 
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/SRK0724/Global-Super-Store-Sales-Analysis/blob/main/Global_Dashboard.png)
 
 
