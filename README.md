@@ -1,5 +1,4 @@
 # Global Super Store Sales Analysis: Driving Retail Success with Data
-Excel-based analysis of Global Super Store sales data with dashboards and insights.
 
 ## Executive Summary
 
